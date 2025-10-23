@@ -1,0 +1,33 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Archivos y cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs o temporales
+*.log
+*.tmp
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos grandes o binarios
+*.dll
+*.exe
+*.pyd
+*.so
+*.zip
+*.tar
+*.gz
+
+# Carpeta de dependencias
+site-packages/
